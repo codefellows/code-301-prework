@@ -20,17 +20,7 @@ If you haven't already, install [Atom](https://atom.io). If you have used an adv
 
   `sudo apt-get install nodejs`
 
-  If this did not work, try the following:
-
-  `curl -sL https://deb.nodesource.com/setup_5.x | sudo -E bash -`
-
-  It will churn away for a while, and then once it's done you can run the following command:
-
-  `sudo apt-get install nodejs`
-
-  If, once again, you did not achieve success, try [these instructions to build from source](https://gist.github.com/toastynerd/d3e563522977f6750c32).
-
-  Finally, `sudo apt-get install npm`
+  If this did not work, do a Google search on the particular error message you received and try to track it down. If you are still running in to problems, send an email or Slack message to your instructor and make a plan for working out a solution.
 
 #### Mac instructions
 
