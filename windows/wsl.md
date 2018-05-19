@@ -9,7 +9,7 @@ Go to [this link](https://devcenter.heroku.com/articles/heroku-cli) and follow t
 
 **Verify Installation**
 
-From the command line, type `heroku --version` to verify that your Heroku installation was successful. You will also need to verify that your PostgreSQL installation (below) was successful, so please wait until the end of the prework steps to verify one after the other and submit a single screenshot in the corresponding Canvas assignment.
+From the command line, type `heroku --version` to verify that your Heroku installation was successful. Skip taking a screenshot (for your canvas assignment) until you can verify PostgreSQL as well. 
 
 You are now done with the Heroku CLI! Next you will be installing PostgreSQL 10!
 
