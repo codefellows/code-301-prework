@@ -57,4 +57,8 @@ Students in Code 201 complete a time-boxed design comp assignment, called "Choco
 
 ### Setup of Your Laptop Dev Environment (Canvas assignment)
 
+This next section will walk you through setting up your local enviroment. There is also a related canavs assigment that you need to turn in for this. 
+
+When you are done installing both the Heroku CLI and postgres, make sure to verifiy them again one directly after the other so that both of the output message are on your terminal screen at the same time. Once they are both on your screen, take a screen single screen shot and use that as your submission for your canvas assignment.
+
 Click [Here](./setup_local_env.md) to move to the next secion!
