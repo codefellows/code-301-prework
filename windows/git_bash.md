@@ -76,7 +76,7 @@ Normally when programs are installed ( like VScode for Windows) they are automat
 - If it did work and you were prompted to enter a password then psql has been successfully added to your PATH.  
 - In the password field, enter the password that you gave when you installed PostgreSQL.
 - If it works, then your terminal window will change to the PostgreSQL interface.
-- In this window, you can enter SQL statements, which must end with semicolons. Congratulations,you've installed PostgreSQL correctly! Continue to the bottom of this page, to move to the final section.s
+- In this window, you can enter SQL statements, which must end with semicolons. Congratulations,you've installed PostgreSQL correctly! Continue to the bottom of this page, to move to the final section.
 
 - Note: If you used a different username then you can specify that after the `-U` in `psql -U <username>`. In most cases, by default the username is postgres, but it may have been changed to the username that you're currently logged into your computer account with. 
 
