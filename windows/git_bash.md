@@ -1,4 +1,4 @@
-# Heroku CLI and Postgres
+# Heroku CLI and Postgres for Git Bash
 
 This doc will help you get Heroku CLI and PostgreSQL setup on your machince. 
 
