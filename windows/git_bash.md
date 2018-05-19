@@ -71,14 +71,18 @@ Normally when programs are installed ( like VScode for Windows) they are automat
 
 **Verify Installation**
 
-- Open the Git  Bash terminal and type `psql -U postgres`. It should prompt you for a password. If you get the error `bash: psql command not found`, and you already followed the steps for adding psql to your path then try restarting your computer then going through the above steps again to see if PostgreSQL is still attached to your PATH. If it's not, then and add it again. Restart and try again this step again. **_If it still isn't working, then let the instructor know and skip to the Alternate Verify Installation section.
+- Open the Git  Bash terminal and type `psql -U postgres`. It should prompt you for a password. If you get the error `bash: psql command not found`, and you already followed the steps for adding psql to your path then try restarting your computer then going through the above steps again to see if PostgreSQL is still attached to your PATH. If it's not, then and add it again. Restart and try again this step again. 
+
+**If it still isn't working, then let the instructor know and skip to the Alternate Verify Installation section.**
 
 - If it did work and you were prompted to enter a password then psql has been successfully added to your PATH.  
 - In the password field, enter the password that you gave when you installed PostgreSQL.
 - If it works, then your terminal window will change to the PostgreSQL interface.
-- In this window, you can enter SQL statements, which must end with semicolons. Congratulations,you've installed PostgreSQL correctly! Continue to the bottom of this page, to move to the final section.
+- In this window, you can enter SQL statements, which must end with semicolons. 
 
-- Note: If you used a different username then you can specify that after the `-U` in `psql -U <username>`. In most cases, by default the username is postgres, but it may have been changed to the username that you're currently logged into your computer account with. 
+> Note: If you used a different username then you can specify that after the `-U` in `psql -U <username>`. In most cases, by default the username is postgres, but it may have been changed to the username that you're currently logged into your computer account with. 
+
+Congratulations, you've installed PostgreSQL correctly! Continue to [final steps](#final-steps).
 
 **If you are having issues with the installation, please inform your instructor and try the Alternate Verify Installation.**
 
@@ -93,6 +97,6 @@ When you installed PostgreSQL, the installer also installed some extra tools. On
 
 **If you are having issues with the installation, please contact your instructor.**
 
-### Final Steps
+### <a id="final-steps">Final Steps</a>
 
 When you are finished installing the Heroku CLI and PostgreSQL, please move here to complete your [Final Steps](./final_steps.md)
