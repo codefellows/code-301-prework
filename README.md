@@ -18,9 +18,7 @@ Note that the tasks below have a corresponding assignment to submit in your Canv
 
 ### jQuery
 
-Complete all of the free portions (not the paid "Pro" ones) [Codecademy course in jQuery](https://www.codecademy.com/en/tracks/jquery). The Canvas submission is a screenshot indicating that the course is complete.
-
-If you would like extra practice on jQuery, [Khan Academy also has a course](https://www.khanacademy.org/computing/computer-programming/html-js-jquery) that you are free to look at and work through, but is not required.
+Complete the official introductory [jQuery Course](https://try.jquery.com). The Canvas submission is a screenshot indicating that the course is complete.
 
 ### Code Wars
 
