@@ -12,7 +12,7 @@ Note that the tasks below have a corresponding assignment to submit in your Canv
 
 1. Reflect on how to boost your [Professional Etiquette](https://codefellows.github.io/common_curriculum/career_coaching/Code_301/Professional_Etiquette)
 1. Build up your bank of [Behavioral Questions](https://codefellows.github.io/common_curriculum/career_coaching/Code_301/Behavioral_Questions)
-1. Practice your [Professional Pitch](https://codefellows.github.io/common_curriculum/career_coaching/Code_301/Professional_Pitch)
+1. Practice your [Professional Pitch](https://codefellows.github.io/common_curriculum/career_coaching/Code_301/Professional_Pitch_Draft)
 
 ## Code Assignments
 
