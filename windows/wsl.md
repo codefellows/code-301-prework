@@ -70,4 +70,4 @@ You can change `pgstart` and `runpg` to what ever you want, but just be careful 
 
 ### <a id="final-steps">Final Steps</a>
 
-When you are finished installing the Heroku CLI and PostgreSQL, please move here to complete your [Final Steps](./final_steps.md)
+When you are finished installing the Heroku CLI and PostgreSQL, please move here to complete your [Final Steps](../final_steps.md)
