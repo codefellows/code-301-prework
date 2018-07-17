@@ -103,4 +103,4 @@ When you installed PostgreSQL, the installer also installed some extra tools. On
 
 ### <a id="final-steps">Final Steps</a>
 
-When you are finished installing the Heroku CLI and PostgreSQL, please move here to complete your [Final Steps](./final_steps.md)
+When you are finished installing the Heroku CLI and PostgreSQL, please move here to complete your [Final Steps](../final_steps.md)
