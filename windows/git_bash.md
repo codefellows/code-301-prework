@@ -6,10 +6,6 @@ This doc will help you get Heroku CLI and PostgreSQL setup on your machince.
 
 Follow [these directions](https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction) for installing the Heroku CLI. *Note: you only need to complete the "Introduction" and "Set Up" sections.*
 
-**Do not let Heroku install Git 2.8.1** otherwise you may need to reinstall the latest version of Git.
-
-<img alt="Deselect Git in Heroku installer components" src="./heroku-install.png" width="499" />
-
 **Verify Installation**
 
 From the command line, type `heroku --version` to verify that your Heroku installation was successful. You will also need to verify that your PostgreSQL installation (below) was successful, so please wait until the end of the prework steps to verify one after the other and submit a single screenshot in the corresponding Canvas assignment.
