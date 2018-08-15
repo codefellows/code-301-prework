@@ -5,7 +5,7 @@ This doc assumes you are using the WSL in the way described in the 201 prework, 
 
 ## Install Heroku CLI
 
-Go to [this link](https://devcenter.heroku.com/articles/heroku-cli) and follow the Ubuntu install instructions. This will install the Heroku CLI on your Ubuntu FS. This allows the CLI to run in a POSIX environment, fixing the `Heroku:pg push` issue that exists on Windows.
+Go to [this link](https://devcenter.heroku.com/articles/heroku-cli) and follow the **standalone** install instructions. This will install the Heroku CLI on your Ubuntu FS. This allows the CLI to run in a POSIX environment, fixing the `Heroku:pg push` issue that exists on Windows.
 
 **Verify Installation**
 
