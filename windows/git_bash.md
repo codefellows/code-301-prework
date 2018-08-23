@@ -2,6 +2,13 @@
 
 This doc will help you get Heroku CLI and PostgreSQL setup on your machince. 
 
+## Create Directory
+
+Create a directory `~/codefellows/301/` to hold your work for this course, by running the command:
+```
+mkdir -p ~/codefellows/301
+```
+
 ## Install Heroku CLI
 
 Follow [these directions](https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction) for installing the Heroku CLI. *Note: you only need to complete the "Introduction" and "Set Up" sections.*

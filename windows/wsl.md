@@ -2,6 +2,12 @@
 
 This doc assumes you are using the WSL in the way described in the 201 prework, or in [this guide](https://github.com/michaeltreat/Windows-Subsystem-For-Linux-Setup).
 
+## Create Directory
+
+Create a directory `~/codefellows/301/` to hold your work for this course, by running the command:
+```
+mkdir -p $wr/codefellows/301
+```
 
 ## Install Heroku CLI
 
