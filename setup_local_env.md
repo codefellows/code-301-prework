@@ -16,6 +16,10 @@ Follow [these directions](https://devcenter.heroku.com/articles/getting-started-
 
 From the command line, type `heroku --version` to verify that your Heroku installation was successful. You will also need to verify that your PostgreSQL installation (below) was successful, so please wait until the end of the prework steps to verify one after the other and submit a single screenshot in the corresponding Canvas assignment.
 
+### Install Jest
+
+In your terminal, run `npm i -g jest`, and then confirm that you can run `jest --version`.
+
 ### Install PostgreSQL Database Software
 *Please note that if you have a previously installed version of PostgreSQL on any operating system, you should be aware of any username and password that you've set for that installation. If you're unsure please uninstall and reinstall a fresh copy, which will also install the latest stable version. Additionally, if you are using a version before 9.5, you should uninstall and reinstall. You will be unable to complete certain labs if you are using version 9.4 or previous!*
 

@@ -21,14 +21,6 @@ Note that the tasks below have a corresponding assignment to submit in your Canv
 
 Complete the official introductory [jQuery Course](https://www.sololearn.com/Play/jQuery). The Canvas submission is a screenshot indicating that the course is complete.
 
-### Code Wars
-
-Throughout Code 301 you will be completing a series of assignments at [Code Wars](https://www.codewars.com).
-
-1. If you do not already have one, sign up for a user account at Code Wars.
-2. Complete [this kata](https://www.codewars.com/kata/check-the-exam).
-3. In the corresponding Canvas assignment, submit a link to your Code Wars profile page and copy/paste your solution code into the text box.
-
 ### Chocolate Pizza CSS
 
 **If you are coming from a Code 201 class that ended within 2 weeks of the start of your Code 301 class**, this assignment is optional. 

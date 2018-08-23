@@ -13,6 +13,10 @@ From the command line, type `heroku --version` to verify that your Heroku instal
 
 You are now done with the Heroku CLI! Next you will be installing PostgreSQL 10!
 
+## Install Jest
+
+In your terminal, run `npm i -g jest`, and then confirm that you can run `jest --version`.
+
 ## Install PostgreSQL using WSL
 
 This doc explains how to install PostgreSQL 10 for Windows WSL
