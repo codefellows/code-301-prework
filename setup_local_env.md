@@ -25,7 +25,7 @@ From the command line, type `heroku --version` to verify that your Heroku instal
 
 ### Install Jest and Nodemon
 
-In Code 301, Jest is a tool that is used to check for correct answers to the daily code challenges. Nodemon is a tool that is used to display the output of file changes in the browser in real time.
+In Code 301, Jest is a tool that is used to check for correct answers to the daily code challenges. Nodemon is a tool that is used to restart the server when changes are made in your server code.
 
 In your terminal, run `npm i -g jest nodemon`. Run the command `jest --version` to confirm proper installation of Jest. Run the command `nodemon --version` to confirm proper installation of Nodemon.
 
