@@ -4,7 +4,6 @@
   - For Mac, type `psql` from terminal.
     - If the response is, "Can't find database *yourUserName*", run `createdb -U yourUserName`, then run `psql` again.
   - For Linux, run `psql`.
-  - For Windows with Git Bash, type `psql -U postgres`, or open up your psql program (SQL Shell).
   - For WSL, run `pgstart` and `psql` and enter your password if prompted.
 2. You should be at a prompt that looks like `postgres=#` or `<your-username-here>=#`.
 3. Enter the following command: `CREATE DATABASE kilovolt;`. *Note the semicolon. If you forget it, your prompt will go to a new line and look like* `postgres-#`. *This means you have an unterminated command and the prompt will just keep going to new lines until you enter a semicolon*.

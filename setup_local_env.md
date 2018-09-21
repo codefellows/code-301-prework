@@ -2,11 +2,7 @@
 
 Completion of the following setup tasks are all to be submitted in a single Canvas assignment. Keep a log of any errors or difficulties you encounter, and include those with your submission.
 
-**Windows Users:**
-
-- If you are using WSL then please go [here](./windows/wsl.md)
-
-- For Git Bash, please go [here](./windows/git_bash.md)
+**Windows Users: please go [here](./windows/wsl.md)**
 
 ### Create Directory
 
