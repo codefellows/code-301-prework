@@ -1,0 +1,59 @@
+
+.headerGrid{
+    display: grid;
+    grid-template-columns: 80% 10%;
+    /* same affect as grid-gap */
+    /* grid-column-gap: 1em;
+    grid-row-gap: 1 em; */
+
+    grid-gap: 1em;
+}
+
+.headerGrid{
+    /* background: #eee; */
+    padding: 1em;
+    height: 100px;
+}
+
+.headerGrid div:nth-child(odd){
+    background: #ddd;
+}
+.headerGrid div:nth-child(even){
+    background: #eee;
+}
+#headLeft{
+width: 300px;
+background: grey;
+}
+/* gets delicios and text to float next to image */
+#headLeft img {
+    float: left;
+}
+
+/* sets fon for delicious */
+#headLeft :nth-last-child(2){
+    font-family: 'Yellowtail', cursive;
+    font-size: 36px
+    
+}
+#headLeft :nth-last-child(1){
+    /* font-family: 'Yellowtail', cursive; */
+    margin: 1px;
+    font-size: 10px
+    
+}
+/* needs to give the container wifth */
+#headRight{
+    width: 300px
+}
+
+#headRight ul li{
+    display: inline;
+    float: left;
+}
+
+#headRight :nth-child(7) div{
+    background: #eee;
+    width: 18px;
+    height: 40px;
+}
