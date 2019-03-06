@@ -19,11 +19,11 @@ Follow [these directions](https://devcenter.heroku.com/articles/getting-started-
 
 From the command line, type `heroku --version` to verify that your Heroku installation was successful. You will also need to verify that your PostgreSQL installation (below) was successful, so please wait until the end of the prework steps to verify one after the other and submit a single screenshot in the corresponding Canvas assignment.
 
-### Install Jest and Nodemon
+### Install Nodemon
 
-In Code 301, Jest is a tool that is used to check for correct answers to the daily code challenges. Nodemon is a tool that is used to restart the server when changes are made in your server code.
+In Code 301, Nodemon is a tool that is used to restart the server when changes are made in your server code.
 
-In your terminal, run `npm i -g jest nodemon`. Run the command `jest --version` to confirm proper installation of Jest. Run the command `nodemon --version` to confirm proper installation of Nodemon.
+In your terminal, run `npm i -g nodemon`. Run the command `nodemon --version` to confirm proper installation of Nodemon.
 
 ### Install PostgreSQL Database Software
 *Please note that if you have a previously installed version of PostgreSQL on any operating system, you should be aware of any username and password that you've set for that installation. If you're unsure please uninstall and reinstall a fresh copy, which will also install the latest stable version. Additionally, if you are using a version before 9.5, you should uninstall and reinstall. You will be unable to complete certain labs if you are using version 9.4 or previous!*

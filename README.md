@@ -43,13 +43,13 @@ Students in Code 201 complete a time-boxed design comp assignment, called "Choco
 4. Making regular Git commits with appropriately descriptive commit messages while you are working.
 5. When finished, be sure to push your final code to GitHub and merge your branch into `master`.
 6. Deploy your page on GitHub Pages via the options in the repository "Settings" tab.
-7. Submit the links to your repoitory AND your deployment in the corresponding Canvas assignment.
+7. Submit the links to your repository AND your deployment in the corresponding Canvas assignment.
 
 
 ### Setup of Your Laptop Dev Environment (Canvas assignment)
 
-This next section will walk you through setting up your local enviroment. There is also a related canavs assigment that you need to turn in for this. 
+This next section will walk you through setting up your local environment. There is also a related Canavs assignment that you need to turn in for this. 
 
-When you are done installing both the Heroku CLI and postgres, make sure to verifiy them again one directly after the other so that both of the output message are on your terminal screen at the same time. Once they are both on your screen, take a screen single screen shot and use that as your submission for your canvas assignment.
+When you are done installing both the Heroku CLI and postgres, make sure to verify them again one directly after the other so that both of the output message are on your terminal screen at the same time. Once they are both on your screen, take a screen single screen shot and use that as your submission for your canvas assignment.
 
 Click [Here](./setup_local_env.md) to move to the next section!

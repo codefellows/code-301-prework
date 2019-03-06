@@ -19,15 +19,11 @@ From the command line, type `heroku --version` to verify that your Heroku instal
 
 You are now done with the Heroku CLI! Next you will be installing PostgreSQL 10!
 
-## Install Jest
-
-In your terminal, run `npm i -g jest`, and then confirm that you can run `jest --version`.
-
 ## Install PostgreSQL using WSL
 
 This doc explains how to install PostgreSQL 10 for Windows WSL
 
-We are installing this through the Ubuntu command line since we want this software to run in the Linux environmnet. You can check out the PostgreSQL Linux install docs [here](https://www.postgresql.org/download/linux/ubuntu/).
+We are installing this through the Ubuntu command line since we want this software to run in the Linux environment. You can check out the PostgreSQL Linux install docs [here](https://www.postgresql.org/download/linux/ubuntu/).
 
 ## Install
 1. Open a terminal (the Ubuntu app) and then go to the root of the Ubuntu Subsystem by typing `cd ~ `.
@@ -40,7 +36,7 @@ We are installing this through the Ubuntu command line since we want this softwa
   wget --quiet -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | sudo apt-key add -
   sudo apt-get update
   ```
-  This will add postgresql 10 to your repositories so you can install the lastest version of Postgresql.
+  This will add postgresql 10 to your repositories so you can install the latest version of Postgresql.
 
 7. After the update is complete, enter in the line `sudo apt-get install postgresql-10` and press `y` when prompted.
 8. To launch the postgres service, type `sudo service postgresql start`.

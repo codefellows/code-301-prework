@@ -11,7 +11,7 @@ Visitors to your portfolio site want to learn about you, in memorable, bite-size
 1. A 2 or 3 word catchy title. Avoid cliches like "programming ninja" or "coding rockstar". 
 1. A personal headline, like you have atop your LinkedIn page. What do you want your career to be about?
 1. Your professional pitch: You've done a recording, so just write down here how it goes. 
-1. What excites you the most about tech? Write 1-2 sentances. 
+1. What excites you the most about tech? Write 1-2 sentences. 
 
 ## Gather your assets
 
