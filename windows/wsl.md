@@ -76,7 +76,7 @@ We are installing this through the Ubuntu command line since we want this softwa
 
 ## Suggestion
 
-Since typing out `sudo service postgres start` all the time can be tedious, and you'll need to run this when you restart your computer, we recommend you set up an alias for this.
+Since typing out `sudo service postgresql start` all the time can be tedious, and you'll need to run this when you restart your computer, we recommend you set up an alias for this.
 
 1. Open a terminal and type `cd ~`, then type `nano .profile`. This will open your `.profile` which controls what your terminal does and looks like.
 1. Add this line next to any other aliases that you have:
